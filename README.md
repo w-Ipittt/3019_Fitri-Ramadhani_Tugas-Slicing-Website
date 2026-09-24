@@ -13,7 +13,7 @@ fitur-fiturnya ada:
   saat diklik
 - Fully responsive untuk menyesuaikan tampilan di desktop, tablet, dan mobile 
 
-# tampilan di pc
+# tampilan
 <img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/ece3d895-456b-4928-8c78-1ad9134b1f34" />
 <img width="1365" height="605" alt="image" src="https://github.com/user-attachments/assets/6b432746-9468-413e-8f88-0ba9e910d6d2" />
 <img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/38574ddf-7b6f-494d-b13c-fdfaed946984" />
